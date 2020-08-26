@@ -1,2 +1,1 @@
-# django-stackExchange-API
-django-stackExchange-API
+Django Stack Exchange API
